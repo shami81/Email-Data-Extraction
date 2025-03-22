@@ -62,7 +62,7 @@ This project automates the extraction of structured data from CSV files attached
 4️⃣ The extracted values are inserted into Google Sheets in the correct order.
 
 ## 📸 Demo Video:
-_(Consider adding email format screenshots and a sample processed Google Sheet output here.)_
+_(https://drive.google.com/file/d/1cTfIKvkkwW6kOwrmD1naY6sp3rjB64ik/view?usp=sharing)_
 
 ## 🚀 Future Enhancements
 ✅ Expand support for additional attachment formats (e.g., Excel, JSON).
